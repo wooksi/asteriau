@@ -1,4 +1,3 @@
-# Asteria
 Hi, I’m Asteria — an 18-year-old developer from Romania (🇷🇴) with a passion for software development, reverse engineering, security research, and UI/UX design.
 
 ## Contact
